@@ -1,0 +1,73 @@
+{
+  "diagnostics": {
+    "rhat_rank_folded": 1.0001227352810191,
+    "ess_bulk": 20158.82975799455,
+    "ess_tail": 21022.659360189584,
+    "mcse_mean": 1.1433767266444026e-05,
+    "mcse_q025": 2.4034090685753212e-05,
+    "mcse_q975": 3.100412489559501e-05,
+    "mean": 0.03676313932419194,
+    "sd": 0.0016223254938738671,
+    "quantiles": [
+      0.03353805690603702,
+      0.03677194677904738,
+      0.0398471335070535
+    ],
+    "arviz_version": "0.22.0"
+  },
+  "stats": [
+    {
+      "chain": 0,
+      "exact_calls": 7001,
+      "stage1_rate": 1.0,
+      "overall_acceptance": 0.8761666666666666,
+      "stage2_conditional": 0.8761666666666666,
+      "proposal_mean": 0.03675593947939972,
+      "proposal_sd": 0.0019440489626947471
+    },
+    {
+      "chain": 1,
+      "exact_calls": 7001,
+      "stage1_rate": 1.0,
+      "overall_acceptance": 0.8765,
+      "stage2_conditional": 0.8765,
+      "proposal_mean": 0.03675593947939972,
+      "proposal_sd": 0.0019440489626947471
+    },
+    {
+      "chain": 2,
+      "exact_calls": 7001,
+      "stage1_rate": 1.0,
+      "overall_acceptance": 0.8736666666666667,
+      "stage2_conditional": 0.8736666666666667,
+      "proposal_mean": 0.03675593947939972,
+      "proposal_sd": 0.0019440489626947471
+    },
+    {
+      "chain": 3,
+      "exact_calls": 7001,
+      "stage1_rate": 1.0,
+      "overall_acceptance": 0.8881666666666667,
+      "stage2_conditional": 0.8881666666666667,
+      "proposal_mean": 0.03675593947939972,
+      "proposal_sd": 0.0019440489626947471
+    }
+  ],
+  "reference": {
+    "mean": 0.03675593947939972,
+    "quantiles": [
+      0.033486665557045575,
+      0.03678858138439247,
+      0.039839268554998336
+    ],
+    "sd": 0.0016200408022456227
+  },
+  "sampling_gate_pass": true,
+  "seconds": 10839.010337200016,
+  "target": "S1 192 cells CFL0.2, Gaussian sigma0.01, uniform n prior[.015,.065]",
+  "time_changes_sd": [
+    0.0027999831111005266,
+    0.0018065836978626351,
+    0.003808055190812913
+  ]
+}

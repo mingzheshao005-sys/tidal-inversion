@@ -1,0 +1,54 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "616ef240ee88b195a6e3f61c567e5714bff3c034eee4dc6af67f20fb1716caa7"
+  },
+  {
+    "path": "DATA_DICTIONARY.md",
+    "sha256": "55aac868219dcc868d48918972b2f06668b1bfb6af09b0e7cbeefdfa9b9c34f0"
+  },
+  {
+    "path": "Numerical_data/delayed_acceptance_diagnostics.json",
+    "sha256": "bd47e186d527bae47ba07e1d0b9c3fdba2806453a040c53ff62919df191c7601"
+  },
+  {
+    "path": "Numerical_data/direct_diagnostics.json",
+    "sha256": "fe7610a5fd7fc81f84103ab4bffbe2f14db7f54eba23786adf8847c08f3ee92b"
+  },
+  {
+    "path": "Numerical_data/direction_cases_25.csv",
+    "sha256": "1dfd64440e370ec4bbc1b3bbdb329597057ddf48e508983807b55562ea846d76"
+  },
+  {
+    "path": "Numerical_data/likelihood_scale_cases_27.csv",
+    "sha256": "d9164c5ace751405a497756e8330fad64f0ea08d051893ee6a4000f037fc4d3f"
+  },
+  {
+    "path": "Numerical_data/model_error_metrics.csv",
+    "sha256": "07064b0b4b8a424bf76db0af88729c7ef7cd7134a2179c89d3b65081fcd80a48"
+  },
+  {
+    "path": "Numerical_data/model_posteriors_4097.csv",
+    "sha256": "42ede7e1d0e83628d126b39e2f6b7992b5ae979a018e0e5bdb26f78c3ff66686"
+  },
+  {
+    "path": "Numerical_data/response_approximation_cases_25.csv",
+    "sha256": "215fe216208345111c4d7ef8de058e92f017664643e241cecd110f634178cffb"
+  },
+  {
+    "path": "README.md",
+    "sha256": "ad76ce51181d0a1e76404b062e054d2b594f7f094ac8978be3510c915e5b8edf"
+  },
+  {
+    "path": "reproduce_summary_figures.py",
+    "sha256": "afaebdb7f21447f92cd341bc6eb257a0fb74989e40b204bd18c80a51cbc2bc2d"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "559925124c392300d06378cd847326eee33c8dfb576d86b81313522f4e988145"
+  },
+  {
+    "path": "RIGHTS.md",
+    "sha256": "15d628a2e0211eb675a3812daba12a2114e023ce3fd60b06eba918a7e33c5dfd"
+  }
+]
